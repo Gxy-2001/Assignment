@@ -1,0 +1,10 @@
+
+H
+java:S1068"2Remove this unused "FILE_SEPARATOR" private field.(Ğ‰¨Ó
+P
+java:S1118":Add a private constructor to hide the implicit public one.(Ìë³Š
+H
+java:S1068"2Remove this unused "PATH_SEPARATOR" private field.(áÖÌË
+y
+java:S1450
+"^Remove the "bootStrapReader" field and declare it as a local variable in the relevant methods.(ìÈ¨ıÿÿÿÿ
